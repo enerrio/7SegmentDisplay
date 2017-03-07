@@ -1,7 +1,6 @@
 /*
  * File: 7segment.h
  * Source: 7segment.c
- * Created 1/29/17 3:15 PM
  * Author: Aaron Marquez
  * This file is written to work with a 7-Segment Common Cathode Display
  *
