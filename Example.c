@@ -1,8 +1,6 @@
 /* 
  * File:   Example.c
  * Author: Aaron Marquez
- *
- * Created on January 27, 2017, 2:39 PM
  * 
  * Architecture: Baseline PIC
  * Processor: 18F45K20
